@@ -1,0 +1,11 @@
+Model Information:
+* title:	Splash
+* source:	https://sketchfab.com/3d-models/splash-0079f9a78c0c4fa98016dbc19762fe84
+* author:	5thDimesion (https://sketchfab.com/5thDimesion)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Splash" (https://sketchfab.com/3d-models/splash-0079f9a78c0c4fa98016dbc19762fe84) by 5thDimesion (https://sketchfab.com/5thDimesion) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
